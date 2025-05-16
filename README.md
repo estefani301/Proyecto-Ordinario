@@ -1,2 +1,2 @@
 # SpaceshipGame
-Juego de asteroides
+Proyecto Ordinario - Juego de asteroides
