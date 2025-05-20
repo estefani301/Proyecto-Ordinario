@@ -45,7 +45,7 @@ public class LoadingState extends State{
 				Color.WHITE,
 				Constants.WIDTH / 2 + Constants.LOADING_BAR_WIDTH / 2,
 				Constants.HEIGHT / 2 + Constants.LOADING_BAR_HEIGHT / 2,
-				Color.BLUE
+				Color.MAGENTA
 				);
 		
 		Graphics2D g2d = (Graphics2D)g;
